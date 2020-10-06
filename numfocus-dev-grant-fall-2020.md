@@ -6,7 +6,14 @@ The nteract project is seeking funding to support hiring a technical writer to a
 
 **Description of Proposal (750 words):**
 
-The nteract core SDK is a collection of React components and JavaScript APIs that developers can use to implement their own Jupyter-based notebook applications. 
+The nteract core SDK is a collection of React components and JavaScript APIs that developers can use to implement their own Jupyter-based notebook applications.
+
+The nteract project seeks funding to hire a technical writing to produce the following documentation for the project:
+
+- Conceptual (tutorial-style) documentation on how to implement a React-based notebook application using the nteract core SDK
+- Conceptual documentation on the Jupyter ecosystem and how different components of the nteract core SDK plug in to it
+
+We anticipate that this documentation work will take a total of 
 
 **The Benefit to Project/Community (400 words):**
 
