@@ -1,8 +1,8 @@
-**Proposal Title:** Funding for improving nteract core SDK documentation
+**Proposal Title:** Funding for improving nteract documentation
 
 **Two Sentence Summary of Proposal:**
 
-The nteract project is seeking funding to support hiring a technical writer to add new documentation for the nteract core SDK. This documentation will make it eaiser for developers to build their own notebook-based UIs and reduce the maintainance burden for the nteract core team.
+The nteract project is seeking funding to support hiring a technical writer to add new documentation for the nteract core SDK. This documentation will make it easier for developers to build their own notebook-based UIs and reduce the maintenance burden for the nteract core team.
 
 **Description of Proposal (750 words):**
 
@@ -13,7 +13,7 @@ The nteract project seeks funding to hire a technical writing to produce the fol
 - Conceptual (tutorial-style) documentation on how to implement a React-based notebook application using the nteract core SDK
 - Conceptual documentation on the Jupyter ecosystem and how different components of the nteract core SDK plug in to it
 
-We anticipate that this documentation work will take a total of 
+We anticipate that this documentation work will take a minimum of 50 hours for a professional technical writer to complete.
 
 **The Benefit to Project/Community (400 words):**
 
@@ -33,8 +33,12 @@ In addition to improving the experience for developers and maintainers, improvin
 
 **Brief Budget Justification (How will the money be spent?):**
 
-The money will be allocated to the payment of a technical writing contractor to support documenting the our API surface area.
+The money will be allocated to the payment of a technical writing contractor to support documenting the our API surface area and desktop application.
 
 **Timeline of Deliverables:**
 
-We intended to complete the documentation work by...
+We intend to complete the documentation work by February 2021. We anticipate that the timeline for the project will proceed as follows:
+
+- November - December: Contractor search and on-boarding
+- January: Technical writer contributes documentation changes to projects.
+- February: Polish and announce new documentation page.
